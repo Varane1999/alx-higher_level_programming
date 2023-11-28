@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def magic_calculation(fa, bb, fc):
+def magic_calculation(ba, bb, bc):
     """Match bytecode provided."""
     if ba < bb:
         return (bc)
